@@ -1,0 +1,19 @@
+{
+    "service": "appdemo",
+    "actions": {
+        "test1": {
+            "repeat_num": 1,
+            "must_args": [],
+            "path": "app/test1",
+            "params": {
+                "param1": "33"
+            }
+        },
+        "test2": {
+            "repeat_num": 1,
+            "must_args": [],
+            "path": "app/test2",
+            "params": {}
+        }
+    }
+}
